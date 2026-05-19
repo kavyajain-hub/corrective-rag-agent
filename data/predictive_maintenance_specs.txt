@@ -1,0 +1,6 @@
+DOCUMENT_ID: EV-MAINT-SPEC-002
+DOMAIN: PREDICTIVE DIAGNOSTICS & TELEMETRY
+
+State of Health (SOH) is a metric tracking the current capacity and performance levels of an electric vehicle traction battery relative to its nominal fresh baseline condition. The vehicle control unit tracks voltage degradation curves, internal resistance spikes, and Coulombic efficiency anomalies over extensive charge-discharge cycles.
+
+Predictive maintenance models deploy tree-based machine learning structures (such as gradient boosting algorithms) to look for multi-variable sensor anomalies. If internal resistance increases by more than 15% within a 50-cycle window, the telemetry agent triggers a degradation alert code flagging prospective cathode micro-cracking.

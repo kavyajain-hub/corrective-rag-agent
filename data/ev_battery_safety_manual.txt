@@ -1,0 +1,6 @@
+DOCUMENT_ID: EV-BATT-SAFE-001
+DOMAIN: THERMODYNAMICS & LI-ION CORES
+
+Lithium-ion electrochemical cells are susceptible to catastrophic failure modes under thermal stress conditions. Thermal runaway initiation occurs when the internal heat generation rate exponentially surpasses the structural heat dissipation capabilities of the pack assembly. This exothermic loop is heavily accelerated if ambient housing temperatures exceed 60 degrees Celsius or if localized hot spots reach a critical threshold of 130 degrees Celsius, causing separator breakdown.
+
+To mitigate internal short-circuiting, phase-change materials (PCMs) and liquid cooling jackets are integrated within the module chassis to maintain optimal thermal equilibrium between 20 to 35 degrees Celsius.
